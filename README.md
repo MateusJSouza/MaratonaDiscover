@@ -1,5 +1,12 @@
 ![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/MateusJSouza/MaratonaDiscovery)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8cb0e95114304674b91b36138f2f66d5)](https://www.codacy.com/gh/MateusJSouza/MaratonaDiscovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/MaratonaDiscovery&amp;utm_campaign=Badge_Grade)
+![GitHub](https://img.shields.io/github/license/MateusJSouza/MaratonaDiscovery)
+![GitHub top language](https://img.shields.io/github/languages/top/MateusJSouza/MaratonaDiscovery)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/MateusJSouza/MaratonaDiscovery)
+![GitHub last commit](https://img.shields.io/github/last-commit/MateusJSouza/MaratonaDiscovery)
+
 
 <h4 align="center">
   This is a project developed during the Discovery Marathon of the Rocketseat platform, with <a href="https://www.linkedin.com/in/maykbrito/">Mayk Brito</a> as instructor.
