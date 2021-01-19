@@ -46,6 +46,14 @@
 ## 🚀 Tecnologias 
 This project was developed by me the following technologies:
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/bancointer/blob/master/LICENSE) for more information.
+
+---
+
+Made with by Mateus Jesus 💙 [Connect with me!](https://www.linkedin.com/in/mateus-jesus)
