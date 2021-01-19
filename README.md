@@ -49,7 +49,7 @@
 
 </p>
 
-## 🚀 Tecnologias 
+## 🚀 Technologies 
 This project was developed by me the following technologies:
 
 - [HTML](https://www.w3schools.com/html/)
