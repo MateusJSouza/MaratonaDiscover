@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="Dev Finances" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png">
-</h1>
+![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png)
 
 # <p align="center">Maratona Discovery - Rocketseat</p>
 <p align="center">
@@ -52,7 +50,7 @@ This project was developed by me the following technologies:
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/bancointer/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/MateusJSouza/MaratonaDiscovery/blob/main/LICENSE) for more information.
 
 ---
 
