@@ -62,4 +62,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Mate
 
 ---
 
-Made with by Mateus Jesus 💙 [Connect with me!](https://www.linkedin.com/in/mateus-jesus)
+Made with 👨🏽‍💻 by Mateus Jesus 💙 [Connect with me!](https://www.linkedin.com/in/mateus-jesus)
