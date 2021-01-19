@@ -2,13 +2,31 @@
 
 <h1 align="center">Maratona Discovery - Rocketseat</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MateusJSouza/MaratonaDiscovery)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8cb0e95114304674b91b36138f2f66d5)](https://www.codacy.com/gh/MateusJSouza/MaratonaDiscovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/MaratonaDiscovery&amp;utm_campaign=Badge_Grade)
-![GitHub](https://img.shields.io/github/license/MateusJSouza/MaratonaDiscovery)
-![GitHub top language](https://img.shields.io/github/languages/top/MateusJSouza/MaratonaDiscovery)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/MateusJSouza/MaratonaDiscovery)
-![GitHub last commit](https://img.shields.io/github/last-commit/MateusJSouza/MaratonaDiscovery)
-
+<p align="center">
+  <a href="#language">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/MaratonaDiscovery">
+  </a>
+  
+  <a href="#repository-size">
+    <img src="https://img.shields.io/github/repo-size/MateusJSouza/MaratonaDiscovery" alt="Tamanho do repositório">
+  </a>
+  
+  <a href="https://www.codacy.com/gh/MateusJSouza/MaratonaDiscovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/MaratonaDiscovery&amp;utm_campaign=Badge_Grade">
+    <img src="https://app.codacy.com/project/badge/Grade/8cb0e95114304674b91b36138f2f66d5"/>
+  </a>
+  
+  <a href="https://github.com/MateusJSouza/MaratonaDiscovery/issues">
+    <img src="https://img.shields.io/bitbucket/issues-raw/MateusJSouza/MaratonaDiscovery" alt="Issues">
+  </a>
+  
+  <a href="https://github.com/MateusJSouza/MaratonaDiscovery/graphs/commit-activity">
+    <img src="https://img.shields.io/github/last-commit/MateusJSouza/MaratonaDiscovery" alt="Últimos commits">
+  </a>
+  
+  <a href="https://github.com/MateusJSouza/MaratonaDiscovery/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MateusJSouza/MaratonaDiscovery" alt="Licença MIT">
+  </a>
+</p>
 
 <h4 align="center">
   This is a project developed during the Discovery Marathon of the Rocketseat platform, with <a href="https://www.linkedin.com/in/maykbrito/">Mayk Brito</a> as instructor.
