@@ -23,6 +23,9 @@
 </p>
 
 ## 🚀 Tecnologias 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ecbbae2187e44e0abeda4780b22642cb)](https://app.codacy.com/gh/MateusJSouza/MaratonaDiscovery?utm_source=github.com&utm_medium=referral&utm_content=MateusJSouza/MaratonaDiscovery&utm_campaign=Badge_Grade_Settings)
+
 This project was developed by me the following technologies:
 
 - [HTML](https://www.w3schools.com/html/)
