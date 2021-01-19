@@ -32,6 +32,10 @@
 </p>
 
 <p align="center">
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611075973/devfinances_kfoxwh.gif" alt="Gif da aplicação rodando">
+</p>
+
+<p align="center">
   <a href="https://maratona-discovery.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611013043/netflify_nahquj.png">
   </a>
