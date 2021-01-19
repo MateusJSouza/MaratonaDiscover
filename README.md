@@ -2,7 +2,7 @@
   <img alt="Dev Finances" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png">
 </h1>
 
-# <center>Maratona Discovery - Rocketseat</center>
+# <p align="center">Maratona Discovery - Rocketseat</p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/bancointer.svg">
 
@@ -33,11 +33,9 @@
 
 <p align="center">
   <a href="https://maratona-discovery.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611013043/netflify_nahquj.png">
   </a>
 </p>
-
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/MateusJSouza/MaratonaDiscovery"><a href="https://github.com/MateusJSouza/MaratonaDiscovery">
 
 </p>
 
