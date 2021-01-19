@@ -1,5 +1,7 @@
 ![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png)
 
+<h1 align="center">Maratona Discovery - Rocketseat</h1>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/MateusJSouza/MaratonaDiscovery)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8cb0e95114304674b91b36138f2f66d5)](https://www.codacy.com/gh/MateusJSouza/MaratonaDiscovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/MaratonaDiscovery&amp;utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/license/MateusJSouza/MaratonaDiscovery)
