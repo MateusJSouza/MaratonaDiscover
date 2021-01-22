@@ -1,4 +1,4 @@
-![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1611011679/dev-finances1_v8qi7q.png)
+![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1611331514/1920x1080_susbxq.png)
 
 <h1 align="center">Maratona Discovery - Rocketseat</h1>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611075973/devfinances_kfoxwh.gif" alt="Gif da aplicação rodando">
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611332145/devfinances2_pnwaat.gif" alt="Gif da aplicação rodando">
 </p>
 
 <p align="center">
