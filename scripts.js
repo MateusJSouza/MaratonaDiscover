@@ -17,6 +17,33 @@ const Modal = {
   }
 }
 
+const body = document.querySelector("body")
+const checkbox = document.querySelector("input[name=theme]")
+
+const getStyle = (element, style) => {
+      window
+            .getComputedStyle(element)
+            .getPropertyValue(style)
+}
+
+const initialColors = {
+      bg: getStyle(body, "background-color")
+
+}
+
+const darkMode = {
+      bg: "#333333",
+      }
+
+const changeColors = (colors) => {
+      Object.keys(colors).map(key => 
+            html.style.setProperty("--bg", "#33333"))
+}
+
+checkbox.addEventListener("change", ({target}) => {
+      target.checked ? changeColors(darkMode) : changeColors(initialColors)
+})
+
 const Storage = {
      get() {
           return JSON.parse(localStorage.getItem("dev.finances:transactions")) || []
